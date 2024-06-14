@@ -66,6 +66,11 @@ A cascading approach using regression models such as CatBoost, XGBoost, and Ligh
 ## Ensemble Learning
 Weighted averaging of predictions from multiple models to enhance robustness and overall performance. Models are weighted based on their individual performance scores on validation or test datasets.
 
+## Architecture
+
+![image](https://github.com/khalilbraham/Football-Qui-va-gagner-by-QRT/assets/74321121/1b1cc93c-8f52-441e-8696-ff7373778102)
+
+
 ## Future Improvements
 - **Temporal and Seasonal Interactions**: Incorporate features like season phase, recent team performance, and player composition changes over time.
 - **Player Data Analysis**: Consider individual player performance, physical condition, injury history, and specific play styles for more accurate predictions.
